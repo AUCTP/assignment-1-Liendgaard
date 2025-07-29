@@ -1,3 +1,5 @@
+Student: Mathias Thorkild Liendgaard 
+
 #Imports
 import random
 import numpy as np
