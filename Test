@@ -1,0 +1,5 @@
+import random
+
+studentArrive = random.randint(100,200)
+
+print(studentArrive)
